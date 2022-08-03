@@ -1,12 +1,5 @@
-## Created with Capacitor Create App
+使用Capacitor构建ios/Android
 
-This app was created using [`@capacitor/create-app`](https://github.com/ionic-team/create-capacitor-app),
-and comes with a very minimal shell for building an app.
+Android文件夹既是Android工程
 
-### Running this example
-
-To run the provided example, you can use [serve](https://www.npmjs.com/package/serve):
-
-```bash
-npm start
-```
+需配合[BGv2-Mo-Web](https://github.com/misaka10843/BGv2-Mo-Web)构建完成后将**dist**文件夹中的文件添加到`android\app\src\main\assets\public`文件夹才能更新
